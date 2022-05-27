@@ -20,7 +20,7 @@
     </dmdesigns>
     <dmlocked tw-colors-gray="true" tw-colors-red="true" tw-colors-yellow="true" tw-colors-green="true" tw-colors-blue="true" tw-colors-indigo="true" tw-colors-purple="true" tw-colors-pink="true" fonts-family_2="true" fonts-family_1="true"></dmlocked>
     <classstyles>
-        <classstyle name="but_dark_blue" key="but_dark_blue" class="bg-blue2-700 bg-opacity-10 border border-blue2-500 border-opacity-30 duration-100 flex group-hover:opacity-100 hover:bg-blue2-500 hover:bg-opacity-25 hover:shadow-lg hover:text-blue2-50 px-4 py-2 rounded-xl shadow-inner space-x-4 text-blue2-200 shadow-blue2-700 my-auto items-center min-w-full md:min-w-0 justify-center md:justify-start" count="0"></classstyle>
+        <classstyle name="but_dark_blue" key="but_dark_blue" class="bg-blue2-700 bg-opacity-10 border border-blue2-500 border-opacity-30 duration-100 flex group-hover:opacity-100 hover:bg-blue2-500 hover:bg-opacity-25 hover:shadow-lg hover:text-blue2-50 px-4 py-2 rounded-xl shadow-inner space-x-4 text-blue2-200 shadow-blue2-700 my-auto md:min-w-0 min-w-full items-center" count="0"></classstyle>
         <classstyle name="box_light_round" key="box_light_round" class="bg-blue2-50 bg-opacity-50 border border-blue2-800 border-opacity-10 flex flex-col rounded-xl shadow-md" count="0">
             <classstyle name="alert" key="box_light_round.alert" class=" border-yellow-800 bg-opacity-100 bg-yellow-50"></classstyle>
         </classstyle>
